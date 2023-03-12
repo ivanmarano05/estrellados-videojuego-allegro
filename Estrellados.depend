@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639435064 source:c:\users\ivanm\onedrive\escritorio\uces materias\5 - programación ii\allegro\estrellados\main.cpp
+	<iostream>
+	<allegro.h>
+	<cmath>
+	<list>
+
